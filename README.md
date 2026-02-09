@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Darion 👋
 
-<!--
-**DsaylesDev/DsaylesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** with a background in **automation, backend systems, and data-driven applications**.  
+I enjoy building reliable services, working close to hardware, and turning messy data into useful insights.
 
-Here are some ideas to get you started:
+### 🛠️ Tech I Work With
+- **Languages:** Java, TypeScript, JavaScript, Python
+- **Backend:** Spring Boot, REST APIs, Elasticsearch, MongoDB
+- **Frontend:** React, D3, Power BI
+- **Tools:** Docker, Git, Azure DevOps, IntelliJ IDEA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Working On
+- Automation & robotics integrations
+- KPI and analytics dashboards
+- Backend services powering warehouse systems
+
+### 📫 Let’s Connect
+- LinkedIn: *www.linkedin.com/in/darion-sayles-457035147*
