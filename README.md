@@ -15,4 +15,4 @@ I enjoy building reliable services, working close to hardware, and turning messy
 - Backend services powering warehouse systems
 
 ### 📫 Let’s Connect
-- LinkedIn: *www.linkedin.com/in/darion-sayles-457035147*
+- LinkedIn: *www.linkedin.com/in/darion-sayles*
